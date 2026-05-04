@@ -174,6 +174,13 @@ supervision
 - **Ray triangulation** (not depth fusion) works with standard RGB cameras
 - **Shared panel rotation** leverages the known geometry of PC I/O panels — all ports face the same direction
 - **GT VGA anchor** is used as a calibration reference for the full scene
+---
+
+Team 
+
+1. Harshith L       25823
+2. Prajwal G M      26654
+3. Ramavath Ramdas  26671
 
 ---
 
