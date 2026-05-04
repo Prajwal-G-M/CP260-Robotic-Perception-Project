@@ -1,5 +1,5 @@
 # CP260 Robotic Perception — Final Project
-## Metric-Semantic 3D Reconstruction of a PC Tower Back Panel
+## Metric-Semantic 3D Reconstruction 
 
 > **Course:** CP260-2026 &nbsp;|&nbsp; **Due:** May 4, 2026
 
